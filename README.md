@@ -16,7 +16,7 @@ In the code -s switch determines the type of scan to perform.
 
 Result for my nmap scanning 
 
-\\        
+########################
 ┌──(kali㉿kali)-[~]
 └─$ nmap -sS 10.0.2.15/24
 Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-23 06:41 EDT
