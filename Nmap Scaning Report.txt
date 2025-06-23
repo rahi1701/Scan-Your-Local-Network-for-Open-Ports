@@ -8,14 +8,14 @@ PORT     STATE SERVICE
 135/tcp  open  msrpc
 445/tcp  open  microsoft-ds
 5900/tcp open  vnc
-MAC Address: 52:55:0A:00:02:02 (Unknown)
+MAC Address: 52:xx:xx:00:xx:xx (Unknown)
 
 Nmap scan report for 10.0.2.3
 Host is up (0.0035s latency).
 Not shown: 999 filtered tcp ports (net-unreach)
 PORT   STATE SERVICE
 53/tcp open  domain
-MAC Address: 52:55:0A:00:02:03 (Unknown)
+MAC Address: 52:55:xx:00:xx:xx (Unknown)
 
 Nmap scan report for 10.0.2.15
 Host is up (0.0000020s latency).
