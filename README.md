@@ -6,10 +6,12 @@ Run nmap tool to perform TCP SYN Scan.
 
 Use below Command for check open port in your network
 
-        nmap -sS 192.168.1.0/24 
+        nmap -sS 10.0.2.15/24 
+
+Insted of 10.0.2.15/24 use your network rang.
 
 In the code -s switch determines the type of scan to perform.
 
 -sS for SYN Scan.
 
-Insted of 192.168.1.0/24 use your network rang.
+
