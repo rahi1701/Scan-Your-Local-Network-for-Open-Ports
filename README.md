@@ -7,4 +7,4 @@ Learn to discover open ports on devices in your local network to understand netw
 
 nmap -sS 192.168.1.0/24 
 
-#insted of 192.168.1.0/24 use your network rang
+# insted of 192.168.1.0/24 use your network rang
