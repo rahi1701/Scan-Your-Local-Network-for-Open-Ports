@@ -7,4 +7,7 @@ Learn to discover open ports on devices in your local network to understand netw
 
 nmap -sS 192.168.1.0/24 
 
-# insted of 192.168.1.0/24 use your network rang
+
+# In the code -s switch determines the type of scan to perform.
+# -sS for SYN Scan
+# Insted of 192.168.1.0/24 use your network rang
