@@ -15,3 +15,5 @@ In the code -s switch determines the type of scan to perform.
 -sS for SYN Scan.
 
 Result for my nmap scanning is attached 
+
+I also capture packet with help of wireshar and packet file is attached 
